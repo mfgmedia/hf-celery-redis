@@ -30,7 +30,3 @@ workflows:
           filters:
             branches:
               only: main
-            paths:
-              only:
-                - src/*
-                - docker/*
